@@ -12,13 +12,14 @@
 
 ## Symbolic execution
 - [P] [Symbolic Execution and Program Testing](https://courses.grainger.illinois.edu/cs477/sp2011/king76symbolicexecution.pdf)
-- [P] [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/cadar/cadar.pdf) # [中文版](https://izayoi.cn/post/klee_%E4%B8%BA%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E9%AB%98%E8%A6%86%E7%9B%96%E7%8E%87%E7%9A%84%E6%B5%8B%E8%AF%95/)
+- [P] [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/cadar/cadar.pdf)
 
 <br>
 
 ## Firmware emulation
 - [P] [Challenges in Firmware Re-Hosting, Emulation, and Analysis](https://dl.acm.org/doi/pdf/10.1145/3423167)
 
+<br>
 
 ## IoT
 - [P] [An Inside Look at IoT Malware](http://tca.iscas.ac.cn/userfiles/file/An%20inside%20look%20at%20IoT%20malware(1).pdf)
@@ -32,7 +33,7 @@
 - [P] [firmadyne](https://github.com/firmadyne/firmadyne/blob/master/paper/paper.pdf)
 - [S] [Exploit (Almost) All Xiaomi Routers Using Logical Bugs](https://hitcon.org/2020/slides/Exploit%20(Almost)%20All%20Xiaomi%20Routers%20Using%20Logical%20Bugs.pdf)
 
-<br> 
+<br>
 
 ## Reverse engineering
 - [S] [Keystone, Capstone, and Unicorn Engines](https://wiki.jaxhax.org/images/8/84/Keystone_Capstone_Unicorn_Engines_Python.pdf)
