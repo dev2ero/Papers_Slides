@@ -42,3 +42,8 @@
 
 ## Vulnerability detection
 - [P] [基于程序分析与测试的二进制软件漏洞挖掘技术研究](http://gb.oversea.cnki.net/KCMS/detail/detail.aspx?filename=1018996862.nh&dbcode=CDFD&dbname=CDFDREF) # [Anti-CNKI](https://github.com/IZAY01/DiskHub/blob/main/papers/%E5%9F%BA%E4%BA%8E%E7%A8%8B%E5%BA%8F%E5%88%86%E6%9E%90%E4%B8%8E%E6%B5%8B%E8%AF%95%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E8%BD%AF%E4%BB%B6%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6_%E8%8B%8F%E4%BA%91%E9%A3%9E.pdf)
+
+<br>
+
+## Fuzzing
+- [P] [Dissecting American Fuzzy Lop](https://www.s3.eurecom.fr/docs/fuzzing22_fioraldi_report.pdf)
