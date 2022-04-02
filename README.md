@@ -18,6 +18,7 @@
 ## Symbolic execution
 - [P] [Symbolic Execution and Program Testing](https://courses.grainger.illinois.edu/cs477/sp2011/king76symbolicexecution.pdf)
 - [P] [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/cadar/cadar.pdf)
+- [S] [Symbolic Execution For Bug Hunting in Binaries](https://docs.google.com/presentation/d/1E3uE-4mYpenw0s40rtMbIdxj3fJgC79aHCeiIlJSY5Y/edit#slide=id.p)
 
 <br>
 
