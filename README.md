@@ -53,3 +53,8 @@
 
 ## Fuzzing
 - [P] [Dissecting American Fuzzy Lop](https://www.s3.eurecom.fr/docs/fuzzing22_fioraldi_report.pdf)
+
+<br>
+
+## Crypto
+- [P] [Shadowsocks Whitepaper](https://shadowsocks.org/assets/whitepaper.pdf)
